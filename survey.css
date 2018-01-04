@@ -1,0 +1,19 @@
+body {
+  background-color: orange;
+}
+h1{
+  text-align: center;
+}
+#container-div-text{
+  text-align: center;
+  font-size: 25px;
+  padding-top: 30px;
+}
+#container{
+  margin: auto;
+  background-color: white;
+  display: block;
+  width: 65%;
+  height: 850px;
+  border-radius: 10px;
+}
